@@ -1,0 +1,11 @@
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Entiti\bin\Debug\Layered.Entiti.dll.config
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Entiti\bin\Debug\Layered.Entiti.dll
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Entiti\bin\Debug\Layered.Entiti.pdb
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Entiti\bin\Debug\EntityFramework.dll
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Entiti\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Entiti\bin\Debug\EntityFramework.xml
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Entiti\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Entiti\obj\Debug\Layered.Entiti.csprojAssemblyReference.cache
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Entiti\obj\Debug\Layered.Entiti.csproj.CopyComplete
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Entiti\obj\Debug\Layered.Entiti.dll
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Entiti\obj\Debug\Layered.Entiti.pdb

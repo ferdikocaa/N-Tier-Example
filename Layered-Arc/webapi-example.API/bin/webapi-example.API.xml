@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>webapi-example.API</name>
+    </assembly>
+    <members>
+        <member name="M:webapi_example.API.Controllers.ExampleController.Get">
+            REQUEST GELDIGINDE RESPONSE OLARAK DONMESI GEREKMEKTEDIR
+        </member>
+    </members>
+</doc>

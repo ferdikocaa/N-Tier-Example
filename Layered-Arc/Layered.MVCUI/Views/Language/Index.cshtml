@@ -1,0 +1,33 @@
+﻿@model List<Layered.Entiti.Languages>
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <table class="table">
+            <tr>
+                <th>Programlama Dli</th>
+            </tr>
+            @foreach (var _data in Model)
+            {
+                <tr>
+                    <td> @_data.Language</td>
+                    <td><a href="~/Language/Del/@_data.ID" class="btn btn-warning">SİL</a></td>
+                 </tr>
+            }
+            @ViewData;
+            <tr>
+                <td><a href="~/Ekle" class="btn btn-primary">Programlama Dili Ekle</a></td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

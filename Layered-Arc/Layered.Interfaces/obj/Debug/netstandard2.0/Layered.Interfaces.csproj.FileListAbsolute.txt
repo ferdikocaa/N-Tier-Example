@@ -1,0 +1,14 @@
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Interfaces\bin\Debug\netstandard2.0\Layered.Interfaces.deps.json
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Interfaces\bin\Debug\netstandard2.0\Layered.Interfaces.dll
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Interfaces\bin\Debug\netstandard2.0\Layered.Interfaces.pdb
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Interfaces\bin\Debug\netstandard2.0\Layered.Entiti.dll
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Interfaces\bin\Debug\netstandard2.0\EntityFramework.dll
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Interfaces\bin\Debug\netstandard2.0\Layered.Entiti.pdb
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Interfaces\bin\Debug\netstandard2.0\Layered.Entiti.dll.config
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Interfaces\bin\Debug\netstandard2.0\EntityFramework.xml
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Interfaces\obj\Debug\netstandard2.0\Layered.Interfaces.csprojAssemblyReference.cache
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Interfaces\obj\Debug\netstandard2.0\Layered.Interfaces.AssemblyInfoInputs.cache
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Interfaces\obj\Debug\netstandard2.0\Layered.Interfaces.AssemblyInfo.cs
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Interfaces\obj\Debug\netstandard2.0\Layered.Interfaces.csproj.CopyComplete
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Interfaces\obj\Debug\netstandard2.0\Layered.Interfaces.dll
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.Interfaces\obj\Debug\netstandard2.0\Layered.Interfaces.pdb

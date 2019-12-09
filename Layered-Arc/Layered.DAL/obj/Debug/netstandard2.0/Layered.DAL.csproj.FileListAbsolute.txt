@@ -1,0 +1,16 @@
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.DAL\bin\Debug\netstandard2.0\Layered.DAL.deps.json
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.DAL\bin\Debug\netstandard2.0\Layered.DAL.dll
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.DAL\bin\Debug\netstandard2.0\Layered.DAL.pdb
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.DAL\bin\Debug\netstandard2.0\EntityFramework.dll
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.DAL\bin\Debug\netstandard2.0\EntityFramework.SqlServer.dll
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.DAL\bin\Debug\netstandard2.0\Layered.Entiti.dll
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.DAL\bin\Debug\netstandard2.0\Layered.Entiti.pdb
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.DAL\bin\Debug\netstandard2.0\Layered.Entiti.dll.config
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.DAL\bin\Debug\netstandard2.0\EntityFramework.xml
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.DAL\bin\Debug\netstandard2.0\EntityFramework.SqlServer.xml
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.DAL\obj\Debug\netstandard2.0\Layered.DAL.csprojAssemblyReference.cache
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.DAL\obj\Debug\netstandard2.0\Layered.DAL.AssemblyInfoInputs.cache
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.DAL\obj\Debug\netstandard2.0\Layered.DAL.AssemblyInfo.cs
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.DAL\obj\Debug\netstandard2.0\Layered.DAL.csproj.CopyComplete
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.DAL\obj\Debug\netstandard2.0\Layered.DAL.dll
+C:\Users\ferdi.koca\Desktop\Layered-Arc\Layered.DAL\obj\Debug\netstandard2.0\Layered.DAL.pdb
